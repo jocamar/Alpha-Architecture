@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AlphaArchitecture:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AlphaArchitecture_jar</output-path>
+    <root id="archive" name="AlphaArchitecture.jar">
+      <element id="module-output" name="AlphaArchitecture" />
+    </root>
+  </artifact>
+</component>
